@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_USER": "senseiseeso",
+    "MONGO_PASSWORD": "4xZcDRqvTKw9K802",
+    "MONGO_CLUSTER": "senseiseesocluster.5sdwhmm",
+    "MONGO_DB": "todosDb",
+    "PORT": 5001
+  }
+}
